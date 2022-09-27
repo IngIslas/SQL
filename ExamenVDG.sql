@@ -1,10 +1,6 @@
 
 
-CREATE DATABASE ExamenVDG
-
-DROP TABLE VideojuegoConsola
-DROP TABLE Videojuego
-DROP TABLE Consola
+--CREATE DATABASE ExamenVDG
 
 CREATE TABLE Videojuego(
 	IdVideojuego INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
